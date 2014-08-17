@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Femto Brasserie de Ben&Seb]]></title>
+  <link href="http://BenAndSebBeers.github.io/atom.xml" rel="self"/>
+  <link href="http://BenAndSebBeers.github.io/"/>
+  <updated>2014-08-18T01:41:11+02:00</updated>
+  <id>http://BenAndSebBeers.github.io/</id>
+  <author>
+    <name><![CDATA[nedseb]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
