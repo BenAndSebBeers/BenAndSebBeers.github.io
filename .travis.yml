@@ -1,5 +1,17 @@
+branches:
+  only:
+  - source
 language: ruby
 rvm:
-  - 2.0.0
-  - 1.9.3
-script: bundle exec rake install; bundle exec rake generate
+- 1.9.3
+before_script:
+- export REPO_URL="https://$GH_TOKEN@github.com/$GH_REPO.git"
+- rake setup_github_pages[$REPO_URL]
+script:
+- rake generate
+after_script:
+- rake deploy
+env:
+  global:
+  - GH_REPO="BenAndSebBeers/BenAndSebBeers.github.io"
+  - secure: sqqDmc6ZIVb4rvycGSAtGyksymU703DQGjg6o77IKMIpiY6V/hoRiB3TyFvhxoqxNEfUJsIRm29zuNfXKY0R/lLAh1UrvwAATEoiv1lIl/v+z/KspbNwKJ+yqu/GyxHyy0yUuwgM0/IvrF11BVq/ZJFpBhIOZPqbGDVVYldqKQM=
