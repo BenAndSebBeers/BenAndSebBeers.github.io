@@ -12,7 +12,7 @@ categories:
 
 Le 14 août 2014, nous récupérons le colis tant attendu. Nous découvrons chaque ustensiles durant le débalage :
 
-![débalage](images/brassin1/debalage.jpg)
+![débalage](../images/brassin1/debalage.jpg)
 
 Nous commençons par stériliser chaque pièce à l'aide de la poudre d'oxygène actif livrée dans le kit dissoute avec de l'eau à raison **de 4 g/L** :
 
