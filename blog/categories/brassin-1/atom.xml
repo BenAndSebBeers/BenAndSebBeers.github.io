@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Brasserie | Femto Brasserie de Ben&Seb]]></title>
-  <link href="http://BenAndSebBeers.github.io/blog/categories/brasserie/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Brassin-1 | Femto Brasserie de Ben&Seb]]></title>
+  <link href="http://BenAndSebBeers.github.io/blog/categories/brassin-1/atom.xml" rel="self"/>
   <link href="http://BenAndSebBeers.github.io/"/>
   <updated>2014-08-19T00:20:52+02:00</updated>
   <id>http://BenAndSebBeers.github.io/</id>
@@ -76,23 +76,6 @@ Avant de commencer un brassin, s&#8217;assurer des points suivants :</p>
 <li>prévoir l&#8217;achat d&#8217;un verre pas trop haut dédié au levin.</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Démarrage De La Femto Brasserie]]></title>
-    <link href="http://BenAndSebBeers.github.io/blog/2014/06/01/demarrage-de-la-femto-brasserie/"/>
-    <updated>2014-06-01T09:00:00+02:00</updated>
-    <id>http://BenAndSebBeers.github.io/blog/2014/06/01/demarrage-de-la-femto-brasserie</id>
-    <content type="html"><![CDATA[<p>Premier article d&#8217;un blog qui essayera de relater l&#8217;aventure brassicole de deux amateurs
-de bière probablement un peu trop geek. Ben est mon maître jedi en ce qui concerne la bière, c&#8217;est
-grâce à ses enseignements de qualité que j&#8217;ai pu cheminer librement dans la découverte du trésor cacher dans la caverne aux merveilles de <a href="http://www.labellemousse.com/">Patrick</a>.</p>
-
-<p>En tant que bidouilleur/geek/scientifique/fou, ça fait plusieurs années que je suis curieux de découvrir comment l&#8217;on fait de la bière. Lorsque j&#8217;ai vu l&#8217;article de <a href="https://twitter.com/NicolasLambert">Nicolas Lambert</a> sur comment <a href="bidouillesfactory.fr/un-robot-pour-ma-biere-brewpi/">brasser de la bière à la maison</a> grâce à un <a href="http://www.raspberrypi.org/faqs">Raspberry Pi</a>, un <a href="http://arduino.cc/">Arduino</a> et un <a href="http://www.brewpi.com/fridge-hacking-guide/">frigo bidouillé</a>, j&#8217;ai immédiatement rêvé de me lancer dans l&#8217;aventure.</p>
-
-<p>Pour partager cette aventure il n&#8217;y avait que <a href="http://fr.wikipedia.org/wiki/Mon_ami_Ben">mon ami Ben</a>.Lorsque je lui en ai parlé, après une réflexion interminable d&#8217;au moins 5 minutes, il a accepté de se lancer sur ce projet.</p>
-
-<p>L&#8217;objectif de ce blog pour nous est double. Premièrement il nous permet de garder une trace qui nous permettra de voir au fur et à mesure le chemin parcouru et de se remémorer tous les instants de cette quête vers la connaissance. Deuxièmement, on l&#8217;espère, il contribuera à donner envie de brasser à la maison à d&#8217;autres padawans.</p>
 ]]></content>
   </entry>
   

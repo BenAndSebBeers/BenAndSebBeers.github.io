@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://BenAndSebBeers.github.io/blog/2014/08/16/premier-brassin/</loc>
+    <lastmod>2014-08-16T16:00:00+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://BenAndSebBeers.github.io/blog/2014/06/01/demarrage-de-la-femto-brasserie/</loc>
     <lastmod>2014-06-01T09:00:00+02:00</lastmod>
     <priority>0.8</priority>
@@ -11,14 +17,14 @@
   
   <url>
     <loc>http://BenAndSebBeers.github.io/blog/archives/</loc>
-    <lastmod>2014-08-18T10:34:02+02:00</lastmod>
+    <lastmod>2014-08-19T00:20:52+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://BenAndSebBeers.github.io/</loc>
-    <lastmod>2014-08-18T10:34:02+02:00</lastmod>
+    <lastmod>2014-08-19T00:20:52+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
