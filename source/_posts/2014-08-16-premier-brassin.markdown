@@ -56,6 +56,7 @@ Dimanche vers 17h, une mousse abondante apparaît dans le fût :
 
 ![brassin-1_mousse.jpg](../images/brassin1/brassin-1_mousse.jpg)
 
+Et puis les glou-glous, d'abord convulsifs et espacés sont passés à 30/mins vers 21h.
 
 Bilan :
 Avant de commencer un brassin, s'assurer des points suivants :
