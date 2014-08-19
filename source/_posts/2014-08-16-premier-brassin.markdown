@@ -44,7 +44,7 @@ Et le moment de ce geste quasi religieux et ancré dans tout Homme : le brassage
 
 ![brasser_levures.jpg](../images/brassin1/brasser_levures.jpg)
 
-Il est temps d'effectuer la mesure de la densité de départ : j'ai obtnu 1,063.
+Il est temps d'effectuer la mesure de la densité de départ : j'ai obtenu 1,063.
 
 ![brassin-1_mesure-1.jpg](../images/brassin1/brassin-1_mesure-1.jpg)
 
