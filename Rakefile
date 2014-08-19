@@ -253,7 +253,7 @@ multitask :push do
   puts "## Deploying branch to Github Pages "
   puts "## Pulling any updates from Github Pages "
   cd "#{deploy_dir}" do 
-    Bundler.with_clean_env { system "git pull" }
+    Bundler.with_clean_env { system "git pull origin #{deploy_branch}" }
   end
   (Dir["#{deploy_dir}/*"]).each { |f| rm_rf(f) }
   Rake::Task[:copydot].invoke(public_dir, deploy_dir)
@@ -350,11 +350,11 @@ task :setup_github_pages, :repo do |t, args|
   mkdir deploy_dir
   cd "#{deploy_dir}" do
     system "git init"
-    system "echo 'My Octopress Page is coming soon &hellip;' > index.html"
-    system "git add ."
-    system "git commit -m \"Octopress init\n\n[ci skip]\""
     system "git branch -m gh-pages" unless branch == 'master'
     system "git remote add origin #{repo_url}"
+    puts "## Pulling any updates from Github Pages "
+    system "git pull origin #{deploy_branch}" 
+
     rakefile = IO.read(__FILE__)
     rakefile.sub!(/deploy_branch(\s*)=(\s*)(["'])[\w-]*["']/, "deploy_branch\\1=\\2\\3#{branch}\\3")
     rakefile.sub!(/deploy_default(\s*)=(\s*)(["'])[\w-]*["']/, "deploy_default\\1=\\2\\3push\\3")
