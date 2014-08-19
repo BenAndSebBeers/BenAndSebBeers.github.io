@@ -52,13 +52,17 @@ L'ensemble est actuellement installé au fond de mon garage, dans l'obsucrité :
 
 ![fermentation_installation.jpg](/images/brassin1/fermentation_installation.jpg)
 
-Dimanche vers 17h, une mousse abondante apparaît dans le fût :
+Dimanche 17 vers 17h, une mousse abondante apparaît dans le fût :
 
 ![brassin-1_mousse.jpg](/images/brassin1/brassin-1_mousse.jpg)
 
-Et puis les glou-glous, d'abord convulsifs et espacés sont passés à 30/mins vers 21h.
+Et puis les glou-glous, d'abord convulsifs et espacés sont passés à 12/min. vers 21h.
 
 [Écouter les glou-glous](http://youtu.be/UpGp_FXtGNA)
+
+Lundi 18 matin, un pic de glou-glous à 15/min.
+
+Mardi 19 soir, le débit des glou-glous à chuté 6/min.
 
 Bilan :
 Avant de commencer un brassin, s'assurer des points suivants :
