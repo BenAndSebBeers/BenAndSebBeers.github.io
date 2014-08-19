@@ -4,7 +4,7 @@
   <title><![CDATA[Femto Brasserie de Ben&Seb]]></title>
   <link href="http://BenAndSebBeers.github.io/atom.xml" rel="self"/>
   <link href="http://BenAndSebBeers.github.io/"/>
-  <updated>2014-08-19T14:40:14+00:00</updated>
+  <updated>2014-08-19T16:20:14+00:00</updated>
   <id>http://BenAndSebBeers.github.io/</id>
   <author>
     <name><![CDATA[nedseb]]></name>
@@ -88,9 +88,11 @@ Avant de commencer un brassin, s&#8217;assurer des points suivants :</p>
 de bière probablement un peu trop geek. Ben est mon maître jedi en ce qui concerne la bière, c&#8217;est
 grâce à ses enseignements de qualité que j&#8217;ai pu cheminer librement dans la découverte du trésor cacher dans la caverne aux merveilles de <a href="http://www.labellemousse.com/">Patrick</a>.</p>
 
-<p>En tant que bidouilleur/geek/scientifique/fou, ça fait plusieurs années que je suis curieux de découvrir comment l&#8217;on fait de la bière. Lorsque j&#8217;ai vu l&#8217;article de <a href="https://twitter.com/NicolasLambert">Nicolas Lambert</a> sur comment <a href="bidouillesfactory.fr/un-robot-pour-ma-biere-brewpi/">brasser de la bière à la maison</a> grâce à un <a href="http://www.raspberrypi.org/faqs">Raspberry Pi</a>, un <a href="http://arduino.cc/">Arduino</a> et un <a href="http://www.brewpi.com/fridge-hacking-guide/">frigo bidouillé</a>, j&#8217;ai immédiatement rêvé de me lancer dans l&#8217;aventure.</p>
+<p>En tant que bidouilleur/geek/scientifique/fou, ça fait plusieurs années que je suis curieux de découvrir comment l&#8217;on fait de la bière. Lorsque j&#8217;ai vu l&#8217;article de <a href="https://twitter.com/NicolasLambert">Nicolas Lambert</a> sur comment <a href="http://bidouillesfactory.fr/un-robot-pour-ma-biere-brewpi/">brasser de la bière à la maison</a> grâce à un <a href="http://www.raspberrypi.org/faqs">Raspberry Pi</a>, un <a href="http://arduino.cc/">Arduino</a> et un <a href="http://www.brewpi.com/fridge-hacking-guide/">frigo bidouillé</a>, j&#8217;ai immédiatement rêvé de me lancer dans l&#8217;aventure.</p>
 
-<p>Pour partager cette aventure il n&#8217;y avait que <a href="http://fr.wikipedia.org/wiki/Mon_ami_Ben">mon ami Ben</a>.Lorsque je lui en ai parlé, après une réflexion interminable d&#8217;au moins 5 minutes, il a accepté de se lancer sur ce projet.</p>
+<p>Pour partager cette aventure il n&#8217;y avait que <a href="http://fr.wikipedia.org/wiki/Mon_ami_Ben">mon ami Ben</a>. Lorsque je lui en ai parlé, après une réflexion interminable d&#8217;au moins 5 minutes, il a accepté de se lancer sur ce projet.</p>
+
+<p>En plus de ces deux fous originels, un troisième larron, Arnaud, est venu se joindre à la bande pour les raisonner et s&#8217;amuser avec eux. Il ne se joindra à nous que plus tard mais nous avons prévu de lui faire gouter nos premiers essais en avant première. S&#8217;il sort vivant de se suplice nul doute qu&#8217;il restera avec nous pour d&#8217;autres chatiments.</p>
 
 <p>L&#8217;objectif de ce blog pour nous est double. Premièrement il nous permet de garder une trace qui nous permettra de voir au fur et à mesure le chemin parcouru et de se remémorer tous les instants de cette quête vers la connaissance. Deuxièmement, on l&#8217;espère, il contribuera à donner envie de brasser à la maison à d&#8217;autres padawans.</p>
 ]]></content>
