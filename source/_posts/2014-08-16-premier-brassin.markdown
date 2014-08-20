@@ -65,6 +65,7 @@ Et puis les glou-glous, d'abord convulsifs et espacés sont passés à 12/min. v
 * Mardi 19 soir, le débit des glou-glous a chuté à 6/min.
 
 * Mercredi 20 matin, 4 gg/min. et une densité de 1,013. Ça sent la fin...
+La dédustation du brassin montre des allures de véritable bière arômatique avec un final assez amère. Sa texture vineuse et ronde indiquent une bière très probablement assez alcoolisée.
 
 * Bilan :
 
@@ -73,6 +74,6 @@ Avant de commencer un brassin, s'assurer des points suivants :
     * avoir suffisamment de poudre permettant la stérilisation de l'ensemble ;
     * prévoir l'achat de 1 kg de sucre roux d'avance ;
     * la veille : stériliser l'eau achetée et la stocker dans la cuve n°2 fermée pour refroidissement ;
- * prévoir l'achat d'une bassine dédiée à la stérilisation des pièces ;
- * prévoir l'achat d'un verre pas trop haut dédié au levin.
+    * prévoir l'achat d'une bassine dédiée à la stérilisation des pièces ;
+    * prévoir l'achat d'un verre pas trop haut dédié au levin.
 
