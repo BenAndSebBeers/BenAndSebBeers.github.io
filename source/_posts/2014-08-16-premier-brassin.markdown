@@ -10,7 +10,7 @@ categories:
 ---
 
 
-Le 14 août 2014, nous récupérons le colis tant attendu. Nous découvrons chaque ustensile durant le déballage :
+* Le jeudi 14 août 2014, nous récupérons le colis tant attendu. Nous découvrons chaque ustensile durant le déballage :
 
 ![déballage](/images/brassin1/debalage.jpg)
 
@@ -18,7 +18,7 @@ Nous commençons par stériliser chaque pièce à l'aide de la poudre d'oxygène
 
 ![sterilisation](/images/brassin1/sterilisation.jpg)
 
-Samedi 15 août, à 15 h, nous chauffons le mou pour le rendre liquide :
+* Samedi 16 août, à 15 h, nous chauffons le mou pour le rendre liquide :
 
 ![chauffage_mou.jpg](/images/brassin1/chauffage_mou.jpg)
 
@@ -31,7 +31,7 @@ Nous diluons les 500 g de sucre (50% de sucre blanc et 50% de sucre roux bio car
 
 ![verser_mou.jpg](/images/brassin1/verser_mou.jpg)
 
-Dimanche 17 août, une fois le mélange eau-mou à température, j'ai préparé le levain à dissoudre avec de l'eau à 25 °C dans un verre stérilisé. Je n'ai attendu que 5 mins pour **la réactivation des levures alors que 15 mins sont préconisées**. Cela m'était sorti de l'esprit.
+* Dimanche 17 août, une fois le mélange eau-mou à température, j'ai préparé le levain à dissoudre avec de l'eau à 25 °C dans un verre stérilisé. Je n'ai attendu que 5 mins pour **la réactivation des levures alors que 15 mins sont préconisées**. Cela m'était sorti de l'esprit.
 
 
 ![levures_dissoutes.jpg](/images/brassin1/levures_dissoutes.jpg)
@@ -60,16 +60,19 @@ Et puis les glou-glous, d'abord convulsifs et espacés sont passés à 12/min. v
 
 {% youtube  UpGp_FXtGNA %}
 
-Lundi 18 matin, un pic de glou-glous à 15/min.
+* Lundi 18 matin, un pic de glou-glous à 15/min.
 
-Mardi 19 soir, le débit des glou-glous à chuté 6/min.
+* Mardi 19 soir, le débit des glou-glous a chuté à 6/min.
 
-Bilan :
+* Mercredi 20 matin, 4 gg/min. et une densité de 1,013. Ça sent la fin...
+
+* Bilan :
+
 Avant de commencer un brassin, s'assurer des points suivants :
 
-* avoir suffisamment de poudre permettant la stérilisation de l'ensemble ;
-* prévoir l'achat de 1 kg de sucre roux d'avance ;
-* la veille : stériliser l'eau achetée et la stocker dans la cuve n°2 fermée pour refroidissement ;
-* prévoir l'achat d'une bassine dédiée à la stérilisation des pièces ;
-* prévoir l'achat d'un verre pas trop haut dédié au levin.
+  * avoir suffisamment de poudre permettant la stérilisation de l'ensemble ;
+  * prévoir l'achat de 1 kg de sucre roux d'avance ;
+  * la veille : stériliser l'eau achetée et la stocker dans la cuve n°2 fermée pour refroidissement ;
+  * prévoir l'achat d'une bassine dédiée à la stérilisation des pièces ;
+  * prévoir l'achat d'un verre pas trop haut dédié au levin.
 
