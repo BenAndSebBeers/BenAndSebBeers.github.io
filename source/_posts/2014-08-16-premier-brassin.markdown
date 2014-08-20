@@ -70,9 +70,9 @@ Et puis les glou-glous, d'abord convulsifs et espacés sont passés à 12/min. v
 
 Avant de commencer un brassin, s'assurer des points suivants :
 
-  * avoir suffisamment de poudre permettant la stérilisation de l'ensemble ;
-  * prévoir l'achat de 1 kg de sucre roux d'avance ;
-  * la veille : stériliser l'eau achetée et la stocker dans la cuve n°2 fermée pour refroidissement ;
-  * prévoir l'achat d'une bassine dédiée à la stérilisation des pièces ;
-  * prévoir l'achat d'un verre pas trop haut dédié au levin.
+    * avoir suffisamment de poudre permettant la stérilisation de l'ensemble ;
+    * prévoir l'achat de 1 kg de sucre roux d'avance ;
+    * la veille : stériliser l'eau achetée et la stocker dans la cuve n°2 fermée pour refroidissement ;
+ * prévoir l'achat d'une bassine dédiée à la stérilisation des pièces ;
+ * prévoir l'achat d'un verre pas trop haut dédié au levin.
 
