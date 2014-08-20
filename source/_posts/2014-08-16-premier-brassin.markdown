@@ -75,5 +75,6 @@ Avant de commencer un brassin, s'assurer des points suivants :
     * prévoir l'achat de 1 kg de sucre roux d'avance ;
     * la veille : stériliser l'eau achetée et la stocker dans le seau n°2 fermé pour refroidissement ;
     * prévoir l'achat d'une bassine dédiée à la stérilisation des pièces ;
-    * prévoir l'achat d'un verre pas trop haut dédié au levin.
+    * prévoir l'achat d'un verre pas trop haut dédié au levin ;
+    * trouver une méthode rapide pour la stérilisation des bouteilles ;
 
