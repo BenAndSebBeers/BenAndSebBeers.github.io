@@ -4,7 +4,7 @@
   <title><![CDATA[Femto Brasserie de Ben&Seb]]></title>
   <link href="http://BenAndSebBeers.github.io/atom.xml" rel="self"/>
   <link href="http://BenAndSebBeers.github.io/"/>
-  <updated>2014-08-20T15:55:56+00:00</updated>
+  <updated>2014-08-20T16:40:32+00:00</updated>
   <id>http://BenAndSebBeers.github.io/</id>
   <author>
     <name><![CDATA[nedseb]]></name>
@@ -95,6 +95,37 @@ La dédustation du brassin montre des allures de véritable bière arômatique a
 * prévoir l'achat d'un verre pas trop haut dédié au levin ;
 * trouver une méthode rapide pour la stérilisation des bouteilles ;
 </code></pre>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Liens Utiles]]></title>
+    <link href="http://BenAndSebBeers.github.io/blog/2014/06/02/liens-utiles/"/>
+    <updated>2014-06-02T07:00:00+00:00</updated>
+    <id>http://BenAndSebBeers.github.io/blog/2014/06/02/liens-utiles</id>
+    <content type="html"><![CDATA[<p>Sites généraux :</p>
+
+<ul>
+<li><a href="http://www.labellemousse.com/">La Belle Mousse</a></li>
+<li><a href="http://fr.wikipedia.org/wiki/Mon_ami_Ben">Qui est mon ami Ben ?</a></li>
+</ul>
+
+
+<p>Comment se déroule un brassin de kit Brewferm ?</p>
+
+<ul>
+<li><a href=""></a></li>
+</ul>
+
+
+<p>Comment contrôler son installation par ordinateur ?</p>
+
+<ul>
+<li><a href="http://www.brewpi.com/">Brewpi</a></li>
+<li><a href="http://bidouillesfactory.fr/un-robot-pour-ma-biere-brewpi/">Un robot pour ma bière brewpi</a></li>
+<li><a href="http://arduino.cc/">Arduino</a></li>
+</ul>
+
 ]]></content>
   </entry>
   
