@@ -14,7 +14,7 @@ categories:
 
 ![déballage](/images/brassin1/debalage.jpg)
 
-Nous commençons par stériliser chaque pièce à l'aide de la poudre d'oxygène actif livrée dans le kit dissoute avec de l'eau à raison **de 4 g/L** :
+Nous commençons par stériliser chaque pièce à l'aide de la poudre d'oxygène actif, livrée dans le kit, dissoute avec de l'eau à raison **de 4 g/L** :
 
 ![sterilisation](/images/brassin1/sterilisation.jpg)
 
@@ -52,7 +52,7 @@ L'ensemble est actuellement installé au fond de mon garage, dans l'obsucrité :
 
 ![fermentation_installation.jpg](/images/brassin1/fermentation_installation.jpg)
 
-Dimanche 17 vers 17h, une mousse abondante apparaît dans le fût :
+Dimanche 17 vers 17h, une mousse abondante apparaît dans le seau :
 
 ![brassin-1_mousse.jpg](/images/brassin1/brassin-1_mousse.jpg)
 
@@ -73,7 +73,7 @@ Avant de commencer un brassin, s'assurer des points suivants :
 
     * avoir suffisamment de poudre permettant la stérilisation de l'ensemble ;
     * prévoir l'achat de 1 kg de sucre roux d'avance ;
-    * la veille : stériliser l'eau achetée et la stocker dans la cuve n°2 fermée pour refroidissement ;
+    * la veille : stériliser l'eau achetée et la stocker dans le seau n°2 fermé pour refroidissement ;
     * prévoir l'achat d'une bassine dédiée à la stérilisation des pièces ;
     * prévoir l'achat d'un verre pas trop haut dédié au levin.
 
