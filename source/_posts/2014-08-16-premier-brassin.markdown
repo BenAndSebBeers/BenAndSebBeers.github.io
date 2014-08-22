@@ -65,7 +65,11 @@ Et puis les glou-glous, d'abord convulsifs et espacés sont passés à 12/min. v
 * Mardi 19 soir, le débit des glou-glous a chuté à 6/min.
 
 * Mercredi 20 matin, 4 gg/min. et une densité de 1,013. Ça sent la fin...
-La dédustation du brassin montre des allures de véritable bière arômatique avec un final assez amère. Sa texture vineuse et ronde indiquent une bière très probablement assez alcoolisée.
+La dédustation du brassin montre des allures de véritable bière arômatique avec un final assez amère. Sa texture vineuse et ronde indiquent une bière très probablement assez alcoolisée. Le soir 2gg/min.
+
+* Jeudi 21 matin : 0 gg/min. Le temps de tirer le jus pour la calrification est venu.
+
+* Vendredi matin : j'ai enfin le temps de procéder au transfert dans le seau 2 à l'aide d'un tuyau stérilisé au diamètre du robinet. Rendez-vous dans une semaine...
 
 * Bilan :
 
