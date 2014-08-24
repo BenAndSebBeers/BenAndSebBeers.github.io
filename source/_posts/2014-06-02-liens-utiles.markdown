@@ -27,3 +27,6 @@ categories:
     * [Brewpi](http://www.brewpi.com/)
     * [Un robot pour ma bière brewpi](http://bidouillesfactory.fr/un-robot-pour-ma-biere-brewpi/)
     * [Arduino](http://arduino.cc/)
+
+* Recettes de bières :
+    * [Brewtagert, un logiciel de simulation pour modéliser sa bière](http://www.brewtarget.org/)
