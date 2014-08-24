@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Brasserie | Femto Brasserie de Ben&Seb]]></title>
   <link href="http://BenAndSebBeers.github.io/blog/categories/brasserie/atom.xml" rel="self"/>
   <link href="http://BenAndSebBeers.github.io/"/>
-  <updated>2014-08-22T09:53:01+00:00</updated>
+  <updated>2014-08-24T22:10:36+00:00</updated>
   <id>http://BenAndSebBeers.github.io/</id>
   <author>
     <name><![CDATA[nedseb]]></name>
@@ -132,6 +132,12 @@ La dédustation du brassin montre des allures de véritable bière arômatique a
 <li><a href="http://www.brewpi.com/">Brewpi</a></li>
 <li><a href="http://bidouillesfactory.fr/un-robot-pour-ma-biere-brewpi/">Un robot pour ma bière brewpi</a></li>
 <li><a href="http://arduino.cc/">Arduino</a></li>
+</ul>
+</li>
+<li><p>Recettes de bières :</p>
+
+<ul>
+<li><a href="http://www.brewtarget.org/">Brewtagert, un logiciel de simulation pour modéliser sa bière</a></li>
 </ul>
 </li>
 </ul>
