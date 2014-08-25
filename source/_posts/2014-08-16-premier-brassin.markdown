@@ -67,9 +67,21 @@ Et puis les glou-glous, d'abord convulsifs et espacés sont passés à 12/min. v
 * Mercredi 20 matin, 4 gg/min. et une densité de 1,013. Ça sent la fin...
 La dédustation du brassin montre des allures de véritable bière arômatique avec un final assez amère. Sa texture vineuse et ronde indiquent une bière très probablement assez alcoolisée. Le soir 2gg/min.
 
-* Jeudi 21 matin : 0 gg/min. Le temps de tirer le jus pour la calrification est venu.
+![mesure_densite-2.jpg](/images/brassin1/mesure_densite-2.jpg)
+
+* Jeudi 21 matin : 0 gg/min. Le temps de tirer le jus pour la clarification est venu.
 
 * Vendredi matin : j'ai enfin le temps de procéder au transfert dans le seau 2 à l'aide d'un tuyau stérilisé au diamètre du robinet. Rendez-vous dans une semaine...
+
+![transvaser.jpg](/images/brassin1/transvaser.jpg)
+
+Le fond de cuve plein de levures :
+
+![fond_de_cuve.jpg](/images/brassin1/fond_de_cuve.jpg)
+
+* Du vendrei 21 au vendredi 29 : clarification au frais avec un frigo branché à une prise programmable pour ne le faire focntionner que partiellement.
+
+![clarification.jpg](/images/brassin1/clarification.jpg)
 
 * Bilan :
 
