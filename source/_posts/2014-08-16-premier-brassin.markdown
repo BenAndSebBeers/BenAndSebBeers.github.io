@@ -79,7 +79,7 @@ Le fond de cuve plein de levures :
 
 ![fond_de_cuve.jpg](/images/brassin1/fond_de_cuve.jpg)
 
-* Du vendrei 21 au vendredi 29 : clarification au frais avec un frigo branché à une prise programmable pour ne le faire focntionner que partiellement.
+* Du vendrei 21 au vendredi 29 : clarification au frais avec un frigo branché à une prise programmable pour ne le faire fonctionner que partiellement dans le temps.
 
 ![clarification.jpg](/images/brassin1/clarification.jpg)
 
