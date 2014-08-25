@@ -20,7 +20,7 @@ categories:
     * Qu'est-ce que la fermentation secondaire/clarification ?
         * [Discussion sur Bierebel](http://www.bierebel.com/forum/viewtopic.php?f=5&t=2629&mobile=off)
         * [Discussion sur Brassage amateur.com](http://www.brassageamateur.com/forum/ftopic8825.html)
-    * [La picobrasserie amateur du Temple](http://pico-brasserie-temple.blogspot.fr/search?updated-max=2011-12-30T11:40:00%2B01:00&max-results=7&start=35&by-date=false) : moultes de détails de préparation du débutant kit déjà houbmonné et kit plein grain...
+    * [La picobrasserie amateur du Temple](http://pico-brasserie-temple.blogspot.fr/search?updated-max=2011-12-30T11:40:00%2B01:00&max-results=7&start=35&by-date=false) : moultes de détails de préparation du débutant kit déjà houblonné et kit plein grain...
 
 
 
