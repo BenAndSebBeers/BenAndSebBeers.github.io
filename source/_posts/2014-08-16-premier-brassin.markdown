@@ -71,7 +71,7 @@ La dédustation du brassin montre des allures de véritable bière arômatique a
 
 * Jeudi 21 matin : 0 gg/min. Le temps de tirer le jus pour la clarification est venu.
 
-* Vendredi matin : j'ai enfin le temps de procéder au transfert dans le seau 2 à l'aide d'un tuyau stérilisé au diamètre du robinet. Rendez-vous dans une semaine...
+* Vendredi 22 matin : j'ai enfin le temps de procéder au transfert dans le seau 2 à l'aide d'un tuyau stérilisé au diamètre du robinet. Rendez-vous dans une semaine...
 
 ![transvaser.jpg](/images/brassin1/transvaser.jpg)
 
@@ -82,6 +82,11 @@ Le fond de cuve plein de levures :
 * Du vendrei 21 au vendredi 29 : clarification au frais avec un frigo branché à une prise programmable pour ne le faire fonctionner que partiellement dans le temps.
 
 ![clarification.jpg](/images/brassin1/clarification.jpg)
+
+
+
+* dimanche 31 août : embouteillage
+
 
 * Bilan :
 
