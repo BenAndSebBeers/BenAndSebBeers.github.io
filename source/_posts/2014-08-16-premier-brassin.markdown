@@ -87,6 +87,26 @@ Le fond de cuve plein de levures :
 
 * dimanche 31 août : embouteillage
 
+![](/images/brassin1/)
+
+![](/images/brassin1/)
+
+![](/images/brassin1/)
+
+![](/images/brassin1/)
+
+![](/images/brassin1/)
+
+![](/images/brassin1/)
+
+![](/images/brassin1/)
+
+![](/images/brassin1/)
+
+![](/images/brassin1/)
+
+![](/images/brassin1/)
+
 
 * Bilan :
 
