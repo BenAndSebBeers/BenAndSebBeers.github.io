@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Brasserie | Femto Brasserie de Ben&Seb]]></title>
   <link href="http://BenAndSebBeers.github.io/blog/categories/brasserie/atom.xml" rel="self"/>
   <link href="http://BenAndSebBeers.github.io/"/>
-  <updated>2014-09-19T16:47:02+00:00</updated>
+  <updated>2014-09-19T16:57:59+00:00</updated>
   <id>http://BenAndSebBeers.github.io/</id>
   <author>
     <name><![CDATA[nedseb]]></name>
@@ -120,6 +120,32 @@ La dédustation du brassin montre des allures de véritable bière arômatique a
 * prévoir l'achat d'un verre pas trop haut dédié au levin ;
 * trouver une méthode rapide pour la stérilisation des bouteilles ;
 </code></pre>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Brewpi : Installation]]></title>
+    <link href="http://BenAndSebBeers.github.io/blog/2014/06/03/brewpi/"/>
+    <updated>2014-06-03T07:00:00+00:00</updated>
+    <id>http://BenAndSebBeers.github.io/blog/2014/06/03/brewpi</id>
+    <content type="html"><![CDATA[<ul>
+<li><p>Comment contrôler son installation par ordinateur ?</p>
+
+<ul>
+<li><a href="http://www.brewpi.com/">Brewpi</a></li>
+<li><a href="http://bidouillesfactory.fr/un-robot-pour-ma-biere-brewpi/">Un robot pour ma bière brewpi</a></li>
+<li><a href="http://arduino.cc/">Arduino</a></li>
+</ul>
+</li>
+<li><p>Installation du frontend Brewpi sur ma rapsberrypi  :</p></li>
+</ul>
+
+
+<p><img src="/images/brassin1/brewpi_install.jpg" alt="brewpi_install.jpg" /></p>
+
+<p><img src="/images/brassin1/brewpi_install-2.jpg" alt="brewpi_install-2.jpg" /></p>
+
+<p><img src="/images/brassin1/rapsberrypi_et_arduino.jpg" alt="rapsberrypi_et_arduino.jpg" /></p>
 ]]></content>
   </entry>
   

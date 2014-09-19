@@ -11,6 +11,14 @@
   </url>
   
   <url>
+    <loc>http://BenAndSebBeers.github.io/blog/2014/06/03/brewpi/</loc>
+    
+    <lastmod>2014-06-03T07:00:00+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://BenAndSebBeers.github.io/blog/2014/06/02/liens-utiles/</loc>
     
     <lastmod>2014-06-02T07:00:00+00:00</lastmod>
@@ -28,17 +36,17 @@
   
   
   <url>
-    <loc>http://BenAndSebBeers.github.io/blog/archives/</loc>
-    <lastmod>2014-09-19T16:47:02+00:00</lastmod>
+    <loc>http://BenAndSebBeers.github.io/</loc>
+    <lastmod>2014-09-19T16:57:59+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>http://BenAndSebBeers.github.io/</loc>
-    <lastmod>2014-09-19T16:47:02+00:00</lastmod>
+    <loc>http://BenAndSebBeers.github.io/blog/archives/</loc>
+    <lastmod>2014-09-19T16:57:59+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <priority>0.7</priority>
   </url>
   
   
