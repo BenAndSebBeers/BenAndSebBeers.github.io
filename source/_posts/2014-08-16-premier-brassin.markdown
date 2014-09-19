@@ -87,25 +87,25 @@ Le fond de cuve plein de levures :
 
 * dimanche 31 août : embouteillage
 
-![](/images/brassin1/)
+![chauffage_bouteilles.jpg](/images/brassin1/chauffage_bouteilles.jpg)
 
-![](/images/brassin1/)
+![lavage_bouchons_etc.jpg](/images/brassin1/lavage_bouchons_etc.jpg)
 
-![](/images/brassin1/)
+![transvaser_apres_calrifiaction.jpg](/images/brassin1/transvaser_apres_calrifiaction.jpg)
 
-![](/images/brassin1/)
+![sucrage_pour_bouteilles.jpg](/images/brassin1/sucrage_pour_bouteilles.jpg)
 
-![](/images/brassin1/)
+![systeme_remplissage_bouteilles.jpg](/images/brassin1/systeme_remplissage_bouteilles.jpg)
 
-![](/images/brassin1/)
+![remplissage_bouteille.jpg](/images/brassin1/remplissage_bouteille.jpg)
 
-![](/images/brassin1/)
+![avant_encapsulage.jpg](/images/brassin1/avant_encapsulage.jpg)
 
-![](/images/brassin1/)
+![encapsulage.jpg](/images/brassin1/encapsulage.jpg)
 
-![](/images/brassin1/)
+![encapsulage_ustenciles.jpg](/images/brassin1/encapsulage_ustenciles.jpg)
 
-![](/images/brassin1/)
+![encapsulage_fin.jpg](/images/brassin1/encapsulage_fin.jpg)
 
 
 * Bilan :
