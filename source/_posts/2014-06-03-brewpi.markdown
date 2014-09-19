@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Brewpi : installation"
+date: 2014-06-03 09:00:00 +0200
+comments: true
+author: benjixc
+categories: 
+- Brasserie
+- Brewpi
+---
+
+* Comment contrôler son installation par ordinateur ?
+    * [Brewpi](http://www.brewpi.com/)
+    * [Un robot pour ma bière brewpi](http://bidouillesfactory.fr/un-robot-pour-ma-biere-brewpi/)
+    * [Arduino](http://arduino.cc/)
+
+* Installation du frontend Brewpi sur ma rapsberrypi  :
+
+![brewpi_install.jpg](/images/brassin1/brewpi_install.jpg)
+
+![brewpi_install-2.jpg](/images/brassin1/brewpi_install-2.jpg)
+
+![rapsberrypi_et_arduino.jpg](/images/brassin1/rapsberrypi_et_arduino.jpg)
+
