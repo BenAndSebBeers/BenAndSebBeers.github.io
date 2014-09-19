@@ -16,9 +16,9 @@ categories:
 
 * Installation du frontend Brewpi sur ma rapsberrypi  :
 
-![brewpi_install.jpg](/images/brassin1/brewpi_install.jpg)
+![brewpi_install.jpg](/images/brewpi/brewpi_install.jpg)
 
-![brewpi_install-2.jpg](/images/brassin1/brewpi_install-2.jpg)
+![brewpi_install-2.jpg](/images/brewpi/brewpi_install-2.jpg)
 
-![rapsberrypi_et_arduino.jpg](/images/brassin1/rapsberrypi_et_arduino.jpg)
+![rapsberrypi_et_arduino.jpg](/images/brewpi/rapsberrypi_et_arduino.jpg)
 
