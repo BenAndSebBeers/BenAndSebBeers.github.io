@@ -115,9 +115,9 @@ L'attente durant la maturation en bouteille est propre à la méditation, surtou
 
 Visiblement à plusieurs niveaux de lecture :
 
-   * La saison : c'est la bière bue par moine, qui est moins alcoolisée que celle vendue, une bière de table répendue ;
-   * divers : la bière produite pourra être une blonde, une brune, une ambrée... vive la diversité ;
-   * d'hiver : les saisons de l'année, mais aussi le temps qui passe, qui vit et qui arrivera... on le voit bien avec l'illustration des scènes de dégustation médiévale, présente et futur.
+    - La saison : c'est la bière bue par moine, qui est moins alcoolisée que celle vendue, une bière de table répendue ;
+    - divers : la bière produite pourra être une blonde, une brune, une ambrée... vive la diversité ;
+    - d'hiver : les saisons de l'année, mais aussi le temps qui passe, qui vit et qui arrivera... on le voit bien avec l'illustration des scènes de dégustation médiévale, présente et futur.
 
 
 * Bilan :
