@@ -119,9 +119,7 @@ Le fond de cuve plein de levures :
        - d'hiver : les saisons de l'année, mais aussi le temps qui passe, qui vit et qui arrivera... on le voit bien avec l'illustration des scènes de dégustation médiévale, présente et futur.
 
 
-* Bilan :
-
-    Avant de commencer un brassin, s'assurer des points suivants :
+* Bilan -- avant de commencer un brassin, s'assurer des points suivants :
 
     * avoir suffisamment de poudre permettant la stérilisation de l'ensemble ;
     * prévoir l'achat de 1 kg de sucre roux d'avance ;
