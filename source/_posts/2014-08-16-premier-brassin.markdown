@@ -110,7 +110,7 @@ Le fond de cuve plein de levures :
 * dimanche 14 septembre :
     * L'attente durant la maturation en bouteille est propre à la méditation, surtout pour une bière façon abaye. Ce fut l'occasion pour les enfants de créer une étiquette :
 
-![etiquette_saison_divers.jpg](/images/brassin1/etiquette_saison_divers.jpg)
+    ![etiquette_saison_divers.jpg](/images/brassin1/etiquette_saison_divers.jpg)
 
    * Visiblement à plusieurs niveaux de lecture :
 
@@ -121,7 +121,7 @@ Le fond de cuve plein de levures :
 
 * Bilan :
 
-Avant de commencer un brassin, s'assurer des points suivants :
+    Avant de commencer un brassin, s'assurer des points suivants :
 
     * avoir suffisamment de poudre permettant la stérilisation de l'ensemble ;
     * prévoir l'achat de 1 kg de sucre roux d'avance ;
