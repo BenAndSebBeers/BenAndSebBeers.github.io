@@ -108,8 +108,7 @@ Le fond de cuve plein de levures :
 ![encapsulage_fin.jpg](/images/brassin1/encapsulage_fin.jpg)
 
 * dimanche 14 septembre :
-
-L'attente durant la maturation en bouteille est propre à la méditation, surtout pour une bière façon abaye. Ce fut l'occasion pour les enfants de créer une étiquette :
+    * L'attente durant la maturation en bouteille est propre à la méditation, surtout pour une bière façon abaye. Ce fut l'occasion pour les enfants de créer une étiquette :
 
 ![etiquette_saison_divers.jpg](/images/brassin1/etiquette_saison_divers.jpg)
 
