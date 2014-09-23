@@ -79,13 +79,13 @@ Le fond de cuve plein de levures :
 
 ![fond_de_cuve.jpg](/images/brassin1/fond_de_cuve.jpg)
 
-* Du vendrei 21 au vendredi 29 : clarification au frais avec un frigo branché à une prise programmable pour ne le faire fonctionner que partiellement dans le temps.
+* **Du vendredi 21 au vendredi 29 août** : clarification au frais avec un frigo branché à une prise programmable pour ne le faire fonctionner que partiellement dans le temps et donc maintenir une température de 15°C.
 
 ![clarification.jpg](/images/brassin1/clarification.jpg)
 
 
 
-* dimanche 31 août : embouteillage
+* ##Dimanche 31 août :## embouteillage
 
 ![chauffage_bouteilles.jpg](/images/brassin1/chauffage_bouteilles.jpg)
 
@@ -107,7 +107,7 @@ Le fond de cuve plein de levures :
 
 ![encapsulage_fin.jpg](/images/brassin1/encapsulage_fin.jpg)
 
-* dimanche 14 septembre :
+* Dimanche 14 septembre :
     * L'attente durant la maturation en bouteille est propre à la méditation, surtout pour une bière façon abaye. Ce fut l'occasion pour les enfants de créer une étiquette :
 
     ![etiquette_saison_divers.jpg](/images/brassin1/etiquette_saison_divers.jpg)
