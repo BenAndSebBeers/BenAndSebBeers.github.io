@@ -85,7 +85,7 @@ Le fond de cuve plein de levures :
 
 
 
-* ##Dimanche 31 août :## embouteillage
+* ## Dimanche 31 août : ## embouteillage
 
 ![chauffage_bouteilles.jpg](/images/brassin1/chauffage_bouteilles.jpg)
 
