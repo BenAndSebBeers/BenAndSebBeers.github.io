@@ -79,7 +79,8 @@ Le fond de cuve plein de levures :
 
 ![fond_de_cuve.jpg](/images/brassin1/fond_de_cuve.jpg)
 
-* **Du vendredi 21 au vendredi 29 août** : clarification au frais avec un frigo branché à une prise programmable pour ne le faire fonctionner que partiellement dans le temps et donc maintenir une température de 15°C.
+* ### Du vendredi 21 au vendredi 29 août : ###
+  Clarification au frais avec un frigo branché à une prise programmable pour ne le faire fonctionner que partiellement dans le temps et donc maintenir une température de 15°C.
 
 ![clarification.jpg](/images/brassin1/clarification.jpg)
 
