@@ -104,23 +104,43 @@ Le fond de cuve plein de levures :
 
 * ### Dimanche 31 août : embouteillage ###
 
+Il faut stériliser les bouteilles lavées au préalable : 15 mins au four à 175 °C (Th 6.5)
+
 ![chauffage_bouteilles.jpg](/images/brassin1/chauffage_bouteilles.jpg)
+
+Stérilisation des bouchons et tuyauteries d'embouteillage :
 
 ![lavage_bouchons_etc.jpg](/images/brassin1/lavage_bouchons_etc.jpg)
 
+Changement de cuve pour éliminer la partie des levures décantées :
+
 ![transvaser_apres_calrifiaction.jpg](/images/brassin1/transvaser_apres_calrifiaction.jpg)
+
+On ajoute exactement 72 g de surcre roux permettant la fermentation en bouteille pour la production de CO2 :
 
 ![sucrage_pour_bouteilles.jpg](/images/brassin1/sucrage_pour_bouteilles.jpg)
 
+Remplissage aisé des bouteilles grace à la tige avec poussoir :
+
 ![systeme_remplissage_bouteilles.jpg](/images/brassin1/systeme_remplissage_bouteilles.jpg)
+
+Bouteille remplie au bon niveau, permettant de maintenir une pression honorable de la boisson :
 
 ![remplissage_bouteille.jpg](/images/brassin1/remplissage_bouteille.jpg)
 
+Postionnerment de la capsule :
+
 ![avant_encapsulage.jpg](/images/brassin1/avant_encapsulage.jpg)
+
+Et hop, encapsulage :
 
 ![encapsulage.jpg](/images/brassin1/encapsulage.jpg)
 
+La scène d'encapsulage, la pression monte...
+
 ![encapsulage_ustenciles.jpg](/images/brassin1/encapsulage_ustenciles.jpg)
+
+Enfin, la production mise en bouteille et la satisfaction de voir son cheptel prêt pour la dernière ligne droite en maturation :
 
 ![encapsulage_fin.jpg](/images/brassin1/encapsulage_fin.jpg)
 
