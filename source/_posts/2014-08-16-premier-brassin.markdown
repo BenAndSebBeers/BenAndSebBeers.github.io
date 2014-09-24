@@ -10,7 +10,9 @@ categories:
 ---
 
 
-* Le jeudi 14 août 2014, nous récupérons le colis tant attendu. Nous découvrons chaque ustensile durant le déballage :
+* ### Le jeudi 14 août 2014 : ### 
+
+Nous récupérons le colis tant attendu. Nous découvrons chaque ustensile durant le déballage :
 
 ![déballage](/images/brassin1/debalage.jpg)
 
@@ -18,7 +20,9 @@ Nous commençons par stériliser chaque pièce à l'aide de la poudre d'oxygène
 
 ![sterilisation](/images/brassin1/sterilisation.jpg)
 
-* Samedi 16 août, à 15 h, nous chauffons le mou pour le rendre liquide :
+*  ### Samedi 16 août :  ### 
+
+À 15 h, nous chauffons le mou pour le rendre liquide :
 
 ![chauffage_mou.jpg](/images/brassin1/chauffage_mou.jpg)
 
@@ -31,7 +35,9 @@ Nous diluons les 500 g de sucre (50% de sucre blanc et 50% de sucre roux bio car
 
 ![verser_mou.jpg](/images/brassin1/verser_mou.jpg)
 
-* Dimanche 17 août, une fois le mélange eau-mou à température, j'ai préparé le levain à dissoudre avec de l'eau à 25 °C dans un verre stérilisé. Je n'ai attendu que 5 mins pour **la réactivation des levures alors que 15 mins sont préconisées**. Cela m'était sorti de l'esprit.
+*  ### Dimanche 17 août : ### 
+
+Une fois le mélange eau-mou à température, j'ai préparé le levain à dissoudre avec de l'eau à 25 °C dans un verre stérilisé. Je n'ai attendu que 5 mins pour **la réactivation des levures alors que 15 mins sont préconisées**. Cela m'était sorti de l'esprit.
 
 
 ![levures_dissoutes.jpg](/images/brassin1/levures_dissoutes.jpg)
@@ -60,18 +66,28 @@ Et puis les glou-glous, d'abord convulsifs et espacés sont passés à 12/min. v
 
 {% youtube  UpGp_FXtGNA %}
 
-* Lundi 18 matin, un pic de glou-glous à 15/min.
+*  ### Lundi 18 matin : ### 
 
-* Mardi 19 soir, le débit des glou-glous a chuté à 6/min.
+Un pic de glou-glous à 15/min.
 
-* Mercredi 20 matin, 4 gg/min. et une densité de 1,013. Ça sent la fin...
+*  ### Mardi 19 soir : ### 
+
+Le débit des glou-glous a chuté à 6/min.
+
+*  ### Mercredi 20 matin : ### 
+
+4 gg/min. et une densité de 1,013. Ça sent la fin...
 La dédustation du brassin montre des allures de véritable bière arômatique avec un final assez amère. Sa texture vineuse et ronde indiquent une bière très probablement assez alcoolisée. Le soir 2gg/min.
 
 ![mesure_densite-2.jpg](/images/brassin1/mesure_densite-2.jpg)
 
-* Jeudi 21 matin : 0 gg/min. Le temps de tirer le jus pour la clarification est venu.
+*  ### Jeudi 21 matin : ### 
 
-* Vendredi 22 matin : j'ai enfin le temps de procéder au transfert dans le seau 2 à l'aide d'un tuyau stérilisé au diamètre du robinet. Rendez-vous dans une semaine...
+0 gg/min. Le temps de tirer le jus pour la clarification est venu.
+
+*  ### Vendredi 22 matin : ### 
+
+J'ai enfin le temps de procéder au transfert dans le seau 2 à l'aide d'un tuyau stérilisé au diamètre du robinet. Rendez-vous dans une semaine...
 
 ![transvaser.jpg](/images/brassin1/transvaser.jpg)
 
@@ -108,7 +124,7 @@ Le fond de cuve plein de levures :
 
 ![encapsulage_fin.jpg](/images/brassin1/encapsulage_fin.jpg)
 
-* Dimanche 14 septembre :
+*  ### Dimanche 14 septembre : ### 
     * L'attente durant la maturation en bouteille est propre à la méditation, surtout pour une bière façon abaye. Ce fut l'occasion pour les enfants de créer une étiquette :
 
     ![etiquette_saison_divers.jpg](/images/brassin1/etiquette_saison_divers.jpg)
@@ -119,6 +135,7 @@ Le fond de cuve plein de levures :
        - divers : la bière produite pourra être une blonde, une brune, une ambrée... vive la diversité ;
        - d'hiver : les saisons de l'année, mais aussi le temps qui passe, qui vit et qui arrivera... on le voit bien avec l'illustration des scènes de dégustation médiévale, présente et futur.
 
+* * * *
 
 * Bilan : avant de commencer un brassin, s'assurer des points suivants
 
