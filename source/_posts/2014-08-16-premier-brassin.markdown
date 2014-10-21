@@ -154,6 +154,9 @@ Enfin, la production mise en bouteille et la satisfaction de voir son cheptel pr
        - La saison : c'est la bière bue par moine, qui est moins alcoolisée que celle vendue, une bière de table répendue ;
        - divers : la bière produite pourra être une blonde, une brune, une ambrée... vive la diversité ;
        - d'hiver : les saisons de l'année, mais aussi le temps qui passe, qui vit et qui arrivera... on le voit bien avec l'illustration des scènes de dégustation médiévale, présente et futur.
+       
+       
+   * Dégustation : Elle est corsée et vineuse avec une finale amère. Plus le temps de vieillissement en bouteille passe, plus elle s'arrondie et la finale est plus agréable. Elle titre autour de 8,5°.
 
 * * * *
 
