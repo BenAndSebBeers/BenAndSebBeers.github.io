@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Second brassin"
+date: 2014-10-30 16:00:00 +0200
+comments: true
+author: benjixc
+categories: 
+- Brasserie
+- Brassin-2
+---
+
+
+* ### Le mardi 29 octobre 2014 : ###
+
+Nous récupérons le colis tant attendu. Nous découvrons chaque ustensile durant le déballage :
+
+![déballage](/images/brassin1/debalage.jpg)
+
+Brassage de la Grand cru de chez Brewferm à 11h30.
+
+Mesures :
+   * Densité : 1067, alors que celle prévue était 1074.
+   * Fermentation : 20 gg/min. à 21h.
+
+
+
