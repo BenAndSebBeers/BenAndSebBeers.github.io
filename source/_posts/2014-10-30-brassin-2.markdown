@@ -10,17 +10,53 @@ categories:
 ---
 
 
-* ### Le mardi 29 octobre 2014 : ###
+* ### Mardi 29 octobre 2014 : ###
 
-Nous récupérons le colis tant attendu. Nous découvrons chaque ustensile durant le déballage :
+Pour ce second brassin, le Chevalier Blancétait présent avec moi. Tous les membres du trio a donc brassé une fois désormais.
 
-![déballage](/images/brassin1/debalage.jpg)
+Brassage de la Grand cru de chez Brewferm à 11h30. Quelques modifications de pratique pour ce second brassin :
 
-Brassage de la Grand cru de chez Brewferm à 11h30.
+   * Comme pour le prempier brassin, l'eau utilisée est de l'Evian(C) ;
+   * Mise à température de l'eau à 30 °C : j'ai fait bouillir 2 L et y ait ajouté 7 L d'eau à 15 °C ;
+   * Attente de 15 mins pour l'activation des levures dans l'eau à 25 °C ;
+   * Sucrage avec sucre roux cassonade pure canne de Daddy(c) ;
+   * Compte-tenu de la température extérieure, la fermentation primaire a eu lieu dans la maison, à 20-21 °C. Peut-être n'était-ce pas suffisant et les glouglous se sont étallés plus d'une semaine comme on le verra.
 
 Mesures :
    * Densité : 1067, alors que celle prévue était 1074.
    * Fermentation : 20 gg/min. à 21h.
+
+* ### Mercredi 30 octobre 2014 : ###
+
+Ça bulle fort et la mousse est très abondante.
+
+* ### Jeudi 2 novembre 2014 : ###
+
+10 gg/min. L'activité est plus intense qu'avec la bière d'Abbaye.
+
+* ### Jeudi 6 novembre 2014 : ###
+
+Le soir : 2-3 gg/min. Il est temps de passer à la clairification.
+
+* ### Dimanche 9 novembre 2014 : ###
+
+   * Fermentation primaire de 10 jours : elle a été intense longtemps. Aurions-nous du mettre la cuve à 24-25 °C plutôt que 19-20 °C ?
+   * Désinfection de la cuve de clarification et du tuyau de transvasement avec PBW (nitrate de métasilicate) ;
+   * La cuve est mise au garage ayant une température de 12-15 °C vu le temps pluvieu actuel ;
+   * Le couvercle utilisé est cette fois-ci celui ayant le bulleur car lors du brassin 1, la cuve fermée avait gonflé ;
+   * Dégustation : brassin bien moins amère que Abbaye et plus malté et fruité.
+
+* ### Mercredi 12 novembre 2014 : ###
+
+Mesures en vu de l'embouteillage : densité=10XX.
+
+   * Ce brassin étant déstiné au club sportif auquel je suis associé, ce seront des boutilles de récupération qui seront utilisées ;
+   * Nettoyage des bouteilles de récupération : eau chaude et goupillon, puis remplie d'eau et désinfectant pendant 15 mins ;
+   * Gestion de la fermentation en bouteille :
+     * 1 semaine dans la maison à 20-24 °C ;
+     * 2 semaines au frigo à 5-10 °C.
+
+
 
 
 
