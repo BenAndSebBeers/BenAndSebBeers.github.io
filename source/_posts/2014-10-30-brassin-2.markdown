@@ -26,6 +26,7 @@ categories:
   
     * Densité : 1067, alors que celle prévue était 1074.
     * Fermentation : 20 gg/min. à 21h.
+ 
 
 * ### Mercredi 30 octobre 2014 : ###
 
@@ -48,16 +49,16 @@ categories:
    * Le couvercle utilisé est cette fois-ci celui ayant le bulleur car lors du brassin 1, la cuve fermée avait gonflé ;
    * Dégustation : brassin bien moins amère que Abbaye et plus malté et fruité.
 
-
+ 
 * ### Mercredi 12 novembre 2014 : ###
 
   Mesures en vu de l'embouteillage : densité=10XX.
 
-   * Ce brassin étant déstiné au club sportif auquel je suis associé, ce seront des boutilles de récupération qui ser ont utilisées ;
-   * Nettoyage des bouteilles de récupération : eau chaude et goupillon, puis remplie d'eau et désinfectant pendant 15 mins ;
-   * Gestion de la fermentation en bouteille :
-      * 1 semaine dans la maison à 20-24 °C ;
-      * 2 semaines au frigo à 5-10 °C.
+  * Ce brassin étant déstiné au club sportif auquel je suis associé, ce seront des boutilles de récupération qui ser ont utilisées ;
+  * Nettoyage des bouteilles de récupération : eau chaude et goupillon, puis remplie d'eau et désinfectant pendant 15 mins ;
+  * Gestion de la fermentation en bouteille :
+    * 1 semaine dans la maison à 20-24 °C ;
+    * 2 semaines au frigo à 5-10 °C.
 
 
 
