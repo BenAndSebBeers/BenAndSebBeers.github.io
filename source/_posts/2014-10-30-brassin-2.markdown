@@ -12,17 +12,18 @@ categories:
 
 * ### Mardi 29 octobre 2014 : ###
 
-Pour ce second brassin, le Chevalier Blancétait présent avec moi. Tous les membres du trio a donc brassé une fois désormais.
+Pour ce second brassin, le Chevalier Blanc était présent avec moi. Tous les membres du trio a donc brassé une fois désormais.
 
 Brassage de la Grand cru de chez Brewferm à 11h30. Quelques modifications de pratique pour ce second brassin :
 
-   * Comme pour le prempier brassin, l'eau utilisée est de l'Evian(C) ;
-   * Mise à température de l'eau à 30 °C : j'ai fait bouillir 2 L et y ait ajouté 7 L d'eau à 15 °C ;
-   * Attente de 15 mins pour l'activation des levures dans l'eau à 25 °C ;
-   * Sucrage avec sucre roux cassonade pure canne de Daddy(c) ;
-   * Compte-tenu de la température extérieure, la fermentation primaire a eu lieu dans la maison, à 20-21 °C. Peut-être n'était-ce pas suffisant et les glouglous se sont étallés plus d'une semaine comme on le verra.
+    * Comme pour le prempier brassin, l'eau utilisée est de l'Evian(C) ;
+    * Mise à température de l'eau à 30 °C : j'ai fait bouillir 2 L et y ait ajouté 7 L d'eau à 15 °C ;
+    * Attente de 15 mins pour l'activation des levures dans l'eau à 25 °C ;
+    * Sucrage avec sucre roux cassonade pure canne de Daddy(c) ;
+    * Compte-tenu de la température extérieure, la fermentation primaire a eu lieu dans la maison, à 20-21 °C. Peut-être n'était-ce pas suffisant et les glouglous se sont étallés plus d'une semaine comme on le verra.
 
 Mesures :
+
    * Densité : 1067, alors que celle prévue était 1074.
    * Fermentation : 20 gg/min. à 21h.
 
@@ -47,15 +48,16 @@ Le soir : 2-3 gg/min. Il est temps de passer à la clairification.
    * Le couvercle utilisé est cette fois-ci celui ayant le bulleur car lors du brassin 1, la cuve fermée avait gonflé ;
    * Dégustation : brassin bien moins amère que Abbaye et plus malté et fruité.
 
+
 * ### Mercredi 12 novembre 2014 : ###
 
 Mesures en vu de l'embouteillage : densité=10XX.
 
-   * Ce brassin étant déstiné au club sportif auquel je suis associé, ce seront des boutilles de récupération qui seront utilisées ;
-   * Nettoyage des bouteilles de récupération : eau chaude et goupillon, puis remplie d'eau et désinfectant pendant 15 mins ;
-   * Gestion de la fermentation en bouteille :
-     * 1 semaine dans la maison à 20-24 °C ;
-     * 2 semaines au frigo à 5-10 °C.
+    * Ce brassin étant déstiné au club sportif auquel je suis associé, ce seront des boutilles de récupération qui ser ont utilisées ;
+    * Nettoyage des bouteilles de récupération : eau chaude et goupillon, puis remplie d'eau et désinfectant pendant 15 mins ;
+    * Gestion de la fermentation en bouteille :
+      * 1 semaine dans la maison à 20-24 °C ;
+      * 2 semaines au frigo à 5-10 °C.
 
 
 
