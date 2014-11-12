@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Brassin n°3"
+date: 2014-11-12 21:00:00 +0200
+comments: true
+author: benjixc
+categories: 
+- Brasserie
+- Brassin-3
+---
+
+
+* ### Mercredi 12 novembre 2014 : ###
+
+  Brassage de la Bière de Noël de chez Brewferm à 16h30 avec le Chevalier Blanc et Seb. Quelques modifications de pratique pour ce brassin :
+
+   * Comme pour les autres brassins, l'eau utilisée est de l'Evian(C) ;
+   * Mise à température de l'eau à 30 °C : j'ai fait bouillir 2 L et y ait ajouté 7 L d'eau à 15 °C ;
+   * Attente de 15 mins pour l'activation des levures dans l'eau à 25 °C ;
+   * Aucun sucrage initial car la recette nprécisait 0 g/L ! ;
+   * L'extrait de malt houbloné a été boulli et nous avons écumé la mousse pour diminuer l'amertume comme cela est relaté sur des [forum](http://forum.hardware.fr/hfr/Discussions/Cuisine/maison-brasse-brasse-sujet_76298_9.htm). Mais cela a enlevé une partie de la matière, probablement à l'origine de la diminution de densité initale prévue.
+
+  Mesures :
+  
+    * Densité : 1046, alors que celle prévue vaut 1065.
+    * Fermentation : 20 gg/min. à 21h.
+ 
+* ### Lundi 17 novembre 2014 : ###
+
+  //Ça bulle fort et la mousse est très abondante.
+
+
+* ### Mercredi 20 novembre 2014 : ###
+
+
