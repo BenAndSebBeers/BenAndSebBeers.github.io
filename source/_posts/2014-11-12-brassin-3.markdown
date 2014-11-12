@@ -23,7 +23,7 @@ categories:
   Mesures :
   
     * Densité : 1046, alors que celle prévue vaut 1065.
-    * Fermentation : 20 gg/min. à 21h.
+    * Fermentation : 9 gg/min. à 23h.
  
 * ### Lundi 17 novembre 2014 : ###
 
