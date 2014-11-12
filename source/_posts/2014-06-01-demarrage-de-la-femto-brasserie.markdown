@@ -15,7 +15,7 @@ grâce à ses enseignements de qualité que j'ai pu cheminer librement dans la d
 
 En tant que bidouilleur/geek/scientifique/fou, ça fait plusieurs années que je suis curieux de découvrir comment l'on fait de la bière. Lorsque j'ai vu l'article de [Nicolas Lambert](https://twitter.com/NicolasLambert) sur comment [brasser de la bière à la maison](http://bidouillesfactory.fr/un-robot-pour-ma-biere-brewpi/) grâce à un [Raspberry Pi](http://www.raspberrypi.org/faqs), un [Arduino](http://arduino.cc/) et un [frigo bidouillé](http://www.brewpi.com/fridge-hacking-guide/), j'ai immédiatement rêvé de me lancer dans l'aventure. 
 
-Pour partager cette aventure il n'y avait que [mon ami Ben](http://fr.wikipedia.org/wiki/Mon_ami_Ben). Lorsque je lui en ai parlé, après une réflexion interminable d'au moins 5 minutes, il a accepté de se lancer sur ce projet.
+Pour partager cette aventure il n'y avait que [mon ami Ben](http://fr.wikipedia.org/wiki/Mon_ami_Ben). Lorsque je, moi [Seb](http://fr.wikipedia.org/wiki/Belle_et_S%C3%A9bastien_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29), lui en ai parlé, après une réflexion interminable d'au moins 5 minutes, il a accepté de se lancer sur ce projet.
 
 En plus de ces deux fous originels, un troisième larron, le [Chevalier Blanc](http://www.dailymotion.com/video/x3rflp_le-chevalier-blanc-gerard-lanvin-19_fun), est venu se joindre à la bande pour les raisonner et s'amuser avec eux. Il ne se joindra à nous que plus tard mais nous avons prévu de lui faire goûter nos premiers essais en avant première. S'il sort vivant de se suplice nul doute qu'il restera avec nous pour d'autres châtiments.
 
